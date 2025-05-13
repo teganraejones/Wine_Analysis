@@ -1,0 +1,24 @@
+# Ignore Jupyter autosave files
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore metadata from packaging
+*.egg-info/
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore notebook runtime logs
+*.log
+
+# Optional: VS Code workspace settings (if you'd rather not share)
+.vscode/
