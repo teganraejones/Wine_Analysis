@@ -1,9 +1,10 @@
 # Clustering Methods
 ## KMeans Clustering
+- Groups by: Distsance
+- Shows: Spherical Clusters
 ## DBSCAN
+- Groups by: Density
+- Shows: Outliers, Variable Shapes
 ## Hierarchical 
-|         |Kmeans            |DBSCAN         |Hierarchical        |
-|Method   |:-----------------------------------------------------:|
-|Grouping |Distance          |Denstiy        |Similarity          |
-|Uses     |Spherical Clusters|Variable Shapes|Nested Relationships|
-
+- Groups by: Distsance
+- Shows: Spherical Clusters
