@@ -6,5 +6,5 @@
 - Groups by: Density
 - Shows: Outliers, Variable Shapes
 ## Hierarchical 
-- Groups by: Distsance
-- Shows: Spherical Clusters
+- Groups by: Similarity
+- Shows: Visually Nested Relationships
